@@ -6,9 +6,6 @@ html,body{
   padding: 0%;
   overflow-x: hidden;
 }
-html{
-  scroll-behavior: smooth;
-}
 body {
     /* display: grid; */
     align-items : center;
